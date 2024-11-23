@@ -1,0 +1,1729 @@
+Size,Threshold,Time,Array Type
+500,5,408.8,Random Array
+500,5,371.7,Reversed Array
+500,5,449.7,Nearly Sorted Array
+500,10,301.9,Random Array
+500,10,257.7,Reversed Array
+500,10,251.1,Nearly Sorted Array
+500,15,257.3,Random Array
+500,15,244.7,Reversed Array
+500,15,224.8,Nearly Sorted Array
+500,20,225.6,Random Array
+500,20,230.7,Reversed Array
+500,20,187.8,Nearly Sorted Array
+500,30,214.3,Random Array
+500,30,215.6,Reversed Array
+500,30,178.4,Nearly Sorted Array
+500,50,190.6,Random Array
+500,50,237.8,Reversed Array
+500,50,139.3,Nearly Sorted Array
+600,5,608.2,Random Array
+600,5,416.6,Reversed Array
+600,5,415.1,Nearly Sorted Array
+600,10,317,Random Array
+600,10,295,Reversed Array
+600,10,286.9,Nearly Sorted Array
+600,15,372.4,Random Array
+600,15,319.6,Reversed Array
+600,15,300.2,Nearly Sorted Array
+600,20,257,Random Array
+600,20,257.4,Reversed Array
+600,20,202.7,Nearly Sorted Array
+600,30,256.4,Random Array
+600,30,257.5,Reversed Array
+600,30,202,Nearly Sorted Array
+600,50,241,Random Array
+600,50,303.3,Reversed Array
+600,50,165.5,Nearly Sorted Array
+700,5,603.7,Random Array
+700,5,905.2,Reversed Array
+700,5,655.4,Nearly Sorted Array
+700,10,491.7,Random Array
+700,10,494.2,Reversed Array
+700,10,494.4,Nearly Sorted Array
+700,15,376.8,Random Array
+700,15,343.4,Reversed Array
+700,15,305.4,Nearly Sorted Array
+700,20,386.7,Random Array
+700,20,327.6,Reversed Array
+700,20,302.2,Nearly Sorted Array
+700,30,288.9,Random Array
+700,30,311.4,Reversed Array
+700,30,227.6,Nearly Sorted Array
+700,50,299.3,Random Array
+700,50,387.3,Reversed Array
+700,50,193.5,Nearly Sorted Array
+800,5,783,Random Array
+800,5,790.8,Reversed Array
+800,5,864.5,Nearly Sorted Array
+800,10,564.6,Random Array
+800,10,477.1,Reversed Array
+800,10,529.6,Nearly Sorted Array
+800,15,390.5,Random Array
+800,15,369.2,Reversed Array
+800,15,334.4,Nearly Sorted Array
+800,20,393,Random Array
+800,20,372,Reversed Array
+800,20,336,Nearly Sorted Array
+800,30,333.6,Random Array
+800,30,365.9,Reversed Array
+800,30,258.5,Nearly Sorted Array
+800,50,364.2,Random Array
+800,50,489.6,Reversed Array
+800,50,229.9,Nearly Sorted Array
+900,5,924.7,Random Array
+900,5,903.3,Reversed Array
+900,5,943.9,Nearly Sorted Array
+900,10,564.6,Random Array
+900,10,512.3,Reversed Array
+900,10,575.8,Nearly Sorted Array
+900,15,429.6,Random Array
+900,15,413.6,Reversed Array
+900,15,362.3,Nearly Sorted Array
+900,20,433.3,Random Array
+900,20,414,Reversed Array
+900,20,363.9,Nearly Sorted Array
+900,30,380.8,Random Array
+900,30,462.3,Reversed Array
+900,30,300.5,Nearly Sorted Array
+900,50,392.4,Random Array
+900,50,438.8,Reversed Array
+900,50,293.4,Nearly Sorted Array
+1000,5,866.3,Random Array
+1000,5,780.4,Reversed Array
+1000,5,820.3,Nearly Sorted Array
+1000,10,593.9,Random Array
+1000,10,545.1,Reversed Array
+1000,10,537.9,Nearly Sorted Array
+1000,15,550.2,Random Array
+1000,15,510.7,Reversed Array
+1000,15,483.3,Nearly Sorted Array
+1000,20,471.9,Random Array
+1000,20,488.8,Reversed Array
+1000,20,392.8,Nearly Sorted Array
+1000,30,460.3,Random Array
+1000,30,456.7,Reversed Array
+1000,30,414.1,Nearly Sorted Array
+1000,50,421.5,Random Array
+1000,50,499.9,Reversed Array
+1000,50,313.3,Nearly Sorted Array
+1100,5,905.4,Random Array
+1100,5,813.3,Reversed Array
+1100,5,846.3,Nearly Sorted Array
+1100,10,693.5,Random Array
+1100,10,585.6,Reversed Array
+1100,10,580.3,Nearly Sorted Array
+1100,15,634.7,Random Array
+1100,15,580.1,Reversed Array
+1100,15,566.6,Nearly Sorted Array
+1100,20,513.8,Random Array
+1100,20,507,Reversed Array
+1100,20,418.3,Nearly Sorted Array
+1100,30,504.2,Random Array
+1100,30,505.5,Reversed Array
+1100,30,418.6,Nearly Sorted Array
+1100,50,477.5,Random Array
+1100,50,572.3,Reversed Array
+1100,50,357,Nearly Sorted Array
+1200,5,935.7,Random Array
+1200,5,847,Reversed Array
+1200,5,979.2,Nearly Sorted Array
+1200,10,688.2,Random Array
+1200,10,623.5,Reversed Array
+1200,10,602,Nearly Sorted Array
+1200,15,682.2,Random Array
+1200,15,639.4,Reversed Array
+1200,15,600.9,Nearly Sorted Array
+1200,20,550,Random Array
+1200,20,556.1,Reversed Array
+1200,20,470.6,Nearly Sorted Array
+1200,30,700.8,Random Array
+1200,30,1107.9,Reversed Array
+1200,30,913,Nearly Sorted Array
+1200,50,1102.1,Random Array
+1200,50,1123.7,Reversed Array
+1200,50,447.3,Nearly Sorted Array
+1300,5,1087.3,Random Array
+1300,5,929.6,Reversed Array
+1300,5,1061.7,Nearly Sorted Array
+1300,10,780.5,Random Array
+1300,10,718.4,Reversed Array
+1300,10,690.9,Nearly Sorted Array
+1300,15,715.6,Random Array
+1300,15,698.7,Reversed Array
+1300,15,634.7,Nearly Sorted Array
+1300,20,647.8,Random Array
+1300,20,627,Reversed Array
+1300,20,527.7,Nearly Sorted Array
+1300,30,681,Random Array
+1300,30,633.2,Reversed Array
+1300,30,481.6,Nearly Sorted Array
+1300,50,589.3,Random Array
+1300,50,731.9,Reversed Array
+1300,50,406.7,Nearly Sorted Array
+1400,5,1379,Random Array
+1400,5,1167.4,Reversed Array
+1400,5,1200.2,Nearly Sorted Array
+1400,10,1091.8,Random Array
+1400,10,1016.1,Reversed Array
+1400,10,925.7,Nearly Sorted Array
+1400,15,754.8,Random Array
+1400,15,751.2,Reversed Array
+1400,15,715.4,Nearly Sorted Array
+1400,20,765.5,Random Array
+1400,20,702,Reversed Array
+1400,20,675.6,Nearly Sorted Array
+1400,30,637.7,Random Array
+1400,30,671.1,Reversed Array
+1400,30,575.1,Nearly Sorted Array
+1400,50,667.8,Random Array
+1400,50,824.8,Reversed Array
+1400,50,456.3,Nearly Sorted Array
+1500,5,1633.2,Random Array
+1500,5,1631.1,Reversed Array
+1500,5,1455.6,Nearly Sorted Array
+1500,10,1071.3,Random Array
+1500,10,964.6,Reversed Array
+1500,10,981.8,Nearly Sorted Array
+1500,15,862.9,Random Array
+1500,15,743.2,Reversed Array
+1500,15,702.2,Nearly Sorted Array
+1500,20,797,Random Array
+1500,20,745.2,Reversed Array
+1500,20,705.2,Nearly Sorted Array
+1500,30,740.6,Random Array
+1500,30,734.7,Reversed Array
+1500,30,546.1,Nearly Sorted Array
+1500,50,724.1,Random Array
+1500,50,924.2,Reversed Array
+1500,50,500.1,Nearly Sorted Array
+1600,5,1754.5,Random Array
+1600,5,1477.4,Reversed Array
+1600,5,1747.1,Nearly Sorted Array
+1600,10,1134.2,Random Array
+1600,10,993.7,Reversed Array
+1600,10,1029.2,Nearly Sorted Array
+1600,15,845.9,Random Array
+1600,15,810.6,Reversed Array
+1600,15,728.2,Nearly Sorted Array
+1600,20,840.8,Random Array
+1600,20,824.4,Reversed Array
+1600,20,771.6,Nearly Sorted Array
+1600,30,746.1,Random Array
+1600,30,791.7,Reversed Array
+1600,30,577.9,Nearly Sorted Array
+1600,50,776.8,Random Array
+1600,50,1007.6,Reversed Array
+1600,50,871.7,Nearly Sorted Array
+1700,5,2183.1,Random Array
+1700,5,1522.7,Reversed Array
+1700,5,1564.1,Nearly Sorted Array
+1700,10,1161.6,Random Array
+1700,10,1051.4,Reversed Array
+1700,10,1074.7,Nearly Sorted Array
+1700,15,894.2,Random Array
+1700,15,838.5,Reversed Array
+1700,15,760,Nearly Sorted Array
+1700,20,1428.7,Random Array
+1700,20,857,Reversed Array
+1700,20,815.2,Nearly Sorted Array
+1700,30,810.4,Random Array
+1700,30,867.3,Reversed Array
+1700,30,612.2,Nearly Sorted Array
+1700,50,791.4,Random Array
+1700,50,885.1,Reversed Array
+1700,50,612.1,Nearly Sorted Array
+1800,5,1778.1,Random Array
+1800,5,1739.8,Reversed Array
+1800,5,1736.1,Nearly Sorted Array
+1800,10,1263.6,Random Array
+1800,10,1080,Reversed Array
+1800,10,1130.1,Nearly Sorted Array
+1800,15,946.2,Random Array
+1800,15,895.6,Reversed Array
+1800,15,794.9,Nearly Sorted Array
+1800,20,929.7,Random Array
+1800,20,933.3,Reversed Array
+1800,20,851.3,Nearly Sorted Array
+1800,30,909.6,Random Array
+1800,30,924.9,Reversed Array
+1800,30,653.3,Nearly Sorted Array
+1800,50,841.2,Random Array
+1800,50,933.5,Reversed Array
+1800,50,647.9,Nearly Sorted Array
+1900,5,1765.3,Random Array
+1900,5,1592.7,Reversed Array
+1900,5,1893.9,Nearly Sorted Array
+1900,10,1244.8,Random Array
+1900,10,1195.7,Reversed Array
+1900,10,1169.7,Nearly Sorted Array
+1900,15,974.8,Random Array
+1900,15,988.1,Reversed Array
+1900,15,831.6,Nearly Sorted Array
+1900,20,965.2,Random Array
+1900,20,948.6,Reversed Array
+1900,20,828.6,Nearly Sorted Array
+1900,30,932.2,Random Array
+1900,30,1018.8,Reversed Array
+1900,30,688.2,Nearly Sorted Array
+1900,50,875.6,Random Array
+1900,50,982.4,Reversed Array
+1900,50,704.8,Nearly Sorted Array
+2000,5,1888,Random Array
+2000,5,1632.3,Reversed Array
+2000,5,1682.3,Nearly Sorted Array
+2000,10,1280.7,Random Array
+2000,10,1162,Reversed Array
+2000,10,1256.5,Nearly Sorted Array
+2000,15,1228.7,Random Array
+2000,15,1084,Reversed Array
+2000,15,1227.3,Nearly Sorted Array
+2000,20,1011.3,Random Array
+2000,20,1029.4,Reversed Array
+2000,20,866.5,Nearly Sorted Array
+2000,30,1071.5,Random Array
+2000,30,1022.5,Reversed Array
+2000,30,861.3,Nearly Sorted Array
+2000,50,936,Random Array
+2000,50,1065.8,Reversed Array
+2000,50,707.3,Nearly Sorted Array
+2100,5,2024.2,Random Array
+2100,5,1692.9,Reversed Array
+2100,5,1729.4,Nearly Sorted Array
+2100,10,1350.6,Random Array
+2100,10,1326.1,Reversed Array
+2100,10,1196.6,Nearly Sorted Array
+2100,15,2079.3,Random Array
+2100,15,2016,Reversed Array
+2100,15,1860.1,Nearly Sorted Array
+2100,20,1101.5,Random Array
+2100,20,1116.4,Reversed Array
+2100,20,938.4,Nearly Sorted Array
+2100,30,1063.4,Random Array
+2100,30,1042.8,Reversed Array
+2100,30,920.8,Nearly Sorted Array
+2100,50,1000.7,Random Array
+2100,50,1126.1,Reversed Array
+2100,50,743.7,Nearly Sorted Array
+2200,5,1945.5,Random Array
+2200,5,1727.7,Reversed Array
+2200,5,1980.5,Nearly Sorted Array
+2200,10,1462.2,Random Array
+2200,10,1257,Reversed Array
+2200,10,1229.3,Nearly Sorted Array
+2200,15,1437.4,Random Array
+2200,15,1320.4,Reversed Array
+2200,15,1217.7,Nearly Sorted Array
+2200,20,1161.2,Random Array
+2200,20,1081.7,Reversed Array
+2200,20,974.2,Nearly Sorted Array
+2200,30,1160.9,Random Array
+2200,30,1129.7,Reversed Array
+2200,30,924.4,Nearly Sorted Array
+2200,50,1088.2,Random Array
+2200,50,1245.7,Reversed Array
+2200,50,775.5,Nearly Sorted Array
+2300,5,1956.8,Random Array
+2300,5,1810.1,Reversed Array
+2300,5,1940.7,Nearly Sorted Array
+2300,10,1406.2,Random Array
+2300,10,1407.1,Reversed Array
+2300,10,1395.4,Nearly Sorted Array
+2300,15,1498.7,Random Array
+2300,15,1393.9,Reversed Array
+2300,15,1280.3,Nearly Sorted Array
+2300,20,1172.5,Random Array
+2300,20,1192.5,Reversed Array
+2300,20,985.5,Nearly Sorted Array
+2300,30,1167.8,Random Array
+2300,30,1174.9,Reversed Array
+2300,30,1000.7,Nearly Sorted Array
+2300,50,1112,Random Array
+2300,50,1293,Reversed Array
+2300,50,856.6,Nearly Sorted Array
+2400,5,2060.9,Random Array
+2400,5,1841.9,Reversed Array
+2400,5,2019.3,Nearly Sorted Array
+2400,10,1485,Random Array
+2400,10,1334.4,Reversed Array
+2400,10,1294.2,Nearly Sorted Array
+2400,15,1482.4,Random Array
+2400,15,1366.1,Reversed Array
+2400,15,1375.8,Nearly Sorted Array
+2400,20,1236.7,Random Array
+2400,20,1207.5,Reversed Array
+2400,20,987.9,Nearly Sorted Array
+2400,30,1250.5,Random Array
+2400,30,1192.2,Reversed Array
+2400,30,1022.4,Nearly Sorted Array
+2400,50,1191.5,Random Array
+2400,50,1362.4,Reversed Array
+2400,50,928.8,Nearly Sorted Array
+2500,5,2039.9,Random Array
+2500,5,1965.8,Reversed Array
+2500,5,2086.9,Nearly Sorted Array
+2500,10,1603.6,Random Array
+2500,10,1363.4,Reversed Array
+2500,10,1347.4,Nearly Sorted Array
+2500,15,1539.2,Random Array
+2500,15,1363.2,Reversed Array
+2500,15,1474,Nearly Sorted Array
+2500,20,1278.1,Random Array
+2500,20,1244.1,Reversed Array
+2500,20,1031.7,Nearly Sorted Array
+2500,30,1304.1,Random Array
+2500,30,1297.8,Reversed Array
+2500,30,1030.2,Nearly Sorted Array
+2500,50,1272,Random Array
+2500,50,1506.6,Reversed Array
+2500,50,883.8,Nearly Sorted Array
+2600,5,2153.2,Random Array
+2600,5,2125.4,Reversed Array
+2600,5,2124,Nearly Sorted Array
+2600,10,1642.7,Random Array
+2600,10,1602.3,Reversed Array
+2600,10,1589.6,Nearly Sorted Array
+2600,15,1645.3,Random Array
+2600,15,1409.9,Reversed Array
+2600,15,1353.9,Nearly Sorted Array
+2600,20,1383.3,Random Array
+2600,20,1327.7,Reversed Array
+2600,20,1165.9,Nearly Sorted Array
+2600,30,1305.7,Random Array
+2600,30,1306.6,Reversed Array
+2600,30,1072.7,Nearly Sorted Array
+2600,50,1306.9,Random Array
+2600,50,1783.5,Reversed Array
+2600,50,988.5,Nearly Sorted Array
+2700,5,2571.9,Random Array
+2700,5,2359.9,Reversed Array
+2700,5,2334.8,Nearly Sorted Array
+2700,10,1907.1,Random Array
+2700,10,1856.5,Reversed Array
+2700,10,1714.9,Nearly Sorted Array
+2700,15,1626.8,Random Array
+2700,15,1514.5,Reversed Array
+2700,15,1464.9,Nearly Sorted Array
+2700,20,1647.4,Random Array
+2700,20,1460,Reversed Array
+2700,20,1437.9,Nearly Sorted Array
+2700,30,1353.7,Random Array
+2700,30,1359.7,Reversed Array
+2700,30,1119.2,Nearly Sorted Array
+2700,50,1360.6,Random Array
+2700,50,1620.6,Reversed Array
+2700,50,996.1,Nearly Sorted Array
+2800,5,2704.7,Random Array
+2800,5,2639.4,Reversed Array
+2800,5,2516.5,Nearly Sorted Array
+2800,10,2133.7,Random Array
+2800,10,1945.5,Reversed Array
+2800,10,1999.3,Nearly Sorted Array
+2800,15,1835.2,Random Array
+2800,15,1758.2,Reversed Array
+2800,15,1574,Nearly Sorted Array
+2800,20,1630.2,Random Array
+2800,20,1569.1,Reversed Array
+2800,20,1490.8,Nearly Sorted Array
+2800,30,1400.7,Random Array
+2800,30,1421.8,Reversed Array
+2800,30,1146.1,Nearly Sorted Array
+2800,50,1412.9,Random Array
+2800,50,1721.1,Reversed Array
+2800,50,997.7,Nearly Sorted Array
+2900,5,2932.7,Random Array
+2900,5,3164.4,Reversed Array
+2900,5,2954.1,Nearly Sorted Array
+2900,10,2451.5,Random Array
+2900,10,2165.4,Reversed Array
+2900,10,2070.3,Nearly Sorted Array
+2900,15,1680.4,Random Array
+2900,15,1616.5,Reversed Array
+2900,15,1534.3,Nearly Sorted Array
+2900,20,1690.1,Random Array
+2900,20,1601.2,Reversed Array
+2900,20,1582.7,Nearly Sorted Array
+2900,30,1498.1,Random Array
+2900,30,1531.4,Reversed Array
+2900,30,1204.4,Nearly Sorted Array
+2900,50,1488.1,Random Array
+2900,50,1826.4,Reversed Array
+2900,50,1047.5,Nearly Sorted Array
+3000,5,3185.1,Random Array
+3000,5,2926.6,Reversed Array
+3000,5,3184.1,Nearly Sorted Array
+3000,10,2461.4,Random Array
+3000,10,2010.4,Reversed Array
+3000,10,2265.9,Nearly Sorted Array
+3000,15,1768.7,Random Array
+3000,15,1699.1,Reversed Array
+3000,15,1537.4,Nearly Sorted Array
+3000,20,2158.4,Random Array
+3000,20,2117.8,Reversed Array
+3000,20,1600.1,Nearly Sorted Array
+3000,30,1552.5,Random Array
+3000,30,1611.1,Reversed Array
+3000,30,1227.7,Nearly Sorted Array
+3000,50,1570.8,Random Array
+3000,50,1934.6,Reversed Array
+3000,50,1084.9,Nearly Sorted Array
+3100,5,3443.2,Random Array
+3100,5,3475.5,Reversed Array
+3100,5,3584.5,Nearly Sorted Array
+3100,10,2294.7,Random Array
+3100,10,2073.3,Reversed Array
+3100,10,2101.3,Nearly Sorted Array
+3100,15,1807.7,Random Array
+3100,15,1757,Reversed Array
+3100,15,1642.1,Nearly Sorted Array
+3100,20,1862.1,Random Array
+3100,20,1638.3,Reversed Array
+3100,20,1643.3,Nearly Sorted Array
+3100,30,1865.3,Random Array
+3100,30,1626.2,Reversed Array
+3100,30,1233.7,Nearly Sorted Array
+3100,50,1805.6,Random Array
+3100,50,2038.5,Reversed Array
+3100,50,1137,Nearly Sorted Array
+3200,5,3885.5,Random Array
+3200,5,3090.1,Reversed Array
+3200,5,3420.5,Nearly Sorted Array
+3200,10,2436.8,Random Array
+3200,10,2087.3,Reversed Array
+3200,10,2429.9,Nearly Sorted Array
+3200,15,1908,Random Array
+3200,15,1718.4,Reversed Array
+3200,15,1712.3,Nearly Sorted Array
+3200,20,1850.1,Random Array
+3200,20,1712.5,Reversed Array
+3200,20,1654.4,Nearly Sorted Array
+3200,30,1653.8,Random Array
+3200,30,1683.4,Reversed Array
+3200,30,1267.9,Nearly Sorted Array
+3200,50,1729.4,Random Array
+3200,50,2120.9,Reversed Array
+3200,50,1145.4,Nearly Sorted Array
+3300,5,3687.4,Random Array
+3300,5,3165.5,Reversed Array
+3300,5,3498.5,Nearly Sorted Array
+3300,10,2437.5,Random Array
+3300,10,2315.4,Reversed Array
+3300,10,2212.6,Nearly Sorted Array
+3300,15,1920.9,Random Array
+3300,15,1841.5,Reversed Array
+3300,15,1687.4,Nearly Sorted Array
+3300,20,2027.3,Random Array
+3300,20,1777.1,Reversed Array
+3300,20,1613,Nearly Sorted Array
+3300,30,1665.7,Random Array
+3300,30,1764,Reversed Array
+3300,30,1325.1,Nearly Sorted Array
+3300,50,1685.7,Random Array
+3300,50,1758.2,Reversed Array
+3300,50,1363.1,Nearly Sorted Array
+3400,5,3512.5,Random Array
+3400,5,3467.7,Reversed Array
+3400,5,3418.6,Nearly Sorted Array
+3400,10,2518.6,Random Array
+3400,10,2204.1,Reversed Array
+3400,10,2257.6,Nearly Sorted Array
+3400,15,1945.2,Random Array
+3400,15,1856.6,Reversed Array
+3400,15,1652.3,Nearly Sorted Array
+3400,20,1960.6,Random Array
+3400,20,1865.2,Reversed Array
+3400,20,1704.7,Nearly Sorted Array
+3400,30,1743.8,Random Array
+3400,30,1837.4,Reversed Array
+3400,30,1382.2,Nearly Sorted Array
+3400,50,1731.8,Random Array
+3400,50,1846.5,Reversed Array
+3400,50,1370.4,Nearly Sorted Array
+3500,5,5030,Random Array
+3500,5,4849.3,Reversed Array
+3500,5,4671.1,Nearly Sorted Array
+3500,10,3877.3,Random Array
+3500,10,3522,Reversed Array
+3500,10,3682.1,Nearly Sorted Array
+3500,15,1970.2,Random Array
+3500,15,1945.4,Reversed Array
+3500,15,1697.1,Nearly Sorted Array
+3500,20,2102.3,Random Array
+3500,20,1876,Reversed Array
+3500,20,1718.1,Nearly Sorted Array
+3500,30,1819.1,Random Array
+3500,30,1883,Reversed Array
+3500,30,1448,Nearly Sorted Array
+3500,50,1846.8,Random Array
+3500,50,1905.2,Reversed Array
+3500,50,2131.1,Nearly Sorted Array
+3600,5,4198.6,Random Array
+3600,5,3349,Reversed Array
+3600,5,4185,Nearly Sorted Array
+3600,10,2757.6,Random Array
+3600,10,2519.2,Reversed Array
+3600,10,2816.6,Nearly Sorted Array
+3600,15,2071.9,Random Array
+3600,15,2619.4,Reversed Array
+3600,15,1725.8,Nearly Sorted Array
+3600,20,2068.5,Random Array
+3600,20,2052.7,Reversed Array
+3600,20,1738.7,Nearly Sorted Array
+3600,30,1990.3,Random Array
+3600,30,1978.7,Reversed Array
+3600,30,1417,Nearly Sorted Array
+3600,50,2065.7,Random Array
+3600,50,1962.1,Reversed Array
+3600,50,1448.2,Nearly Sorted Array
+3700,5,3820.7,Random Array
+3700,5,3760.8,Reversed Array
+3700,5,4161,Nearly Sorted Array
+3700,10,3034,Random Array
+3700,10,3750.7,Reversed Array
+3700,10,2871.2,Nearly Sorted Array
+3700,15,2362.3,Random Array
+3700,15,2131.9,Reversed Array
+3700,15,2053.7,Nearly Sorted Array
+3700,20,2865,Random Array
+3700,20,2065,Reversed Array
+3700,20,1811.1,Nearly Sorted Array
+3700,30,2173.4,Random Array
+3700,30,2078.5,Reversed Array
+3700,30,1743.1,Nearly Sorted Array
+3700,50,2374,Random Array
+3700,50,2119.6,Reversed Array
+3700,50,1476.9,Nearly Sorted Array
+3800,5,4189.1,Random Array
+3800,5,3678.6,Reversed Array
+3800,5,5007.1,Nearly Sorted Array
+3800,10,3057.1,Random Array
+3800,10,2817.4,Reversed Array
+3800,10,2590.8,Nearly Sorted Array
+3800,15,2660.8,Random Array
+3800,15,2124.4,Reversed Array
+3800,15,1835.2,Nearly Sorted Array
+3800,20,2201.5,Random Array
+3800,20,2022.2,Reversed Array
+3800,20,1959.2,Nearly Sorted Array
+3800,30,1998.3,Random Array
+3800,30,2093.5,Reversed Array
+3800,30,1509.5,Nearly Sorted Array
+3800,50,1991.3,Random Array
+3800,50,2154.8,Reversed Array
+3800,50,1535.9,Nearly Sorted Array
+3900,5,4027.5,Random Array
+3900,5,3724,Reversed Array
+3900,5,3606.5,Nearly Sorted Array
+3900,10,2853.7,Random Array
+3900,10,2440.5,Reversed Array
+3900,10,2568.1,Nearly Sorted Array
+3900,15,2562.4,Random Array
+3900,15,2256.2,Reversed Array
+3900,15,2051.3,Nearly Sorted Array
+3900,20,2233.7,Random Array
+3900,20,2051,Reversed Array
+3900,20,1885.9,Nearly Sorted Array
+3900,30,2107.8,Random Array
+3900,30,2135.1,Reversed Array
+3900,30,1713.8,Nearly Sorted Array
+3900,50,2075.4,Random Array
+3900,50,2158,Reversed Array
+3900,50,1549.3,Nearly Sorted Array
+4000,5,3829.1,Random Array
+4000,5,3415.4,Reversed Array
+4000,5,3549.7,Nearly Sorted Array
+4000,10,2893.3,Random Array
+4000,10,2507.5,Reversed Array
+4000,10,2585,Nearly Sorted Array
+4000,15,2718.3,Random Array
+4000,15,2366.5,Reversed Array
+4000,15,2257.3,Nearly Sorted Array
+4000,20,2229.5,Random Array
+4000,20,2136.6,Reversed Array
+4000,20,1912.6,Nearly Sorted Array
+4000,30,2216,Random Array
+4000,30,2109,Reversed Array
+4000,30,2036.2,Nearly Sorted Array
+4000,50,2053.9,Random Array
+4000,50,2224.2,Reversed Array
+4000,50,1577.6,Nearly Sorted Array
+4100,5,3834.1,Random Array
+4100,5,3790.1,Reversed Array
+4100,5,3921.8,Nearly Sorted Array
+4100,10,2829.6,Random Array
+4100,10,2480,Reversed Array
+4100,10,2597.9,Nearly Sorted Array
+4100,15,2910.9,Random Array
+4100,15,2605.7,Reversed Array
+4100,15,2630.7,Nearly Sorted Array
+4100,20,2274.1,Random Array
+4100,20,2158.3,Reversed Array
+4100,20,1927.7,Nearly Sorted Array
+4100,30,2355.2,Random Array
+4100,30,2171.2,Reversed Array
+4100,30,2012.5,Nearly Sorted Array
+4100,50,2180.7,Random Array
+4100,50,2332.7,Reversed Array
+4100,50,1664.3,Nearly Sorted Array
+4200,5,5342.1,Random Array
+4200,5,5160.9,Reversed Array
+4200,5,5821,Nearly Sorted Array
+4200,10,3078.7,Random Array
+4200,10,2632.2,Reversed Array
+4200,10,4351,Nearly Sorted Array
+4200,15,3239.5,Random Array
+4200,15,3874.7,Reversed Array
+4200,15,2966.8,Nearly Sorted Array
+4200,20,3356.6,Random Array
+4200,20,2697.9,Reversed Array
+4200,20,3558.8,Nearly Sorted Array
+4200,30,3600.1,Random Array
+4200,30,2937.8,Reversed Array
+4200,30,2099.2,Nearly Sorted Array
+4200,50,2289.3,Random Array
+4200,50,2935.3,Reversed Array
+4200,50,1676.4,Nearly Sorted Array
+4300,5,3922.3,Random Array
+4300,5,3566.8,Reversed Array
+4300,5,3694.4,Nearly Sorted Array
+4300,10,2896.4,Random Array
+4300,10,2610.2,Reversed Array
+4300,10,2606.3,Nearly Sorted Array
+4300,15,3453.6,Random Array
+4300,15,2643.6,Reversed Array
+4300,15,2718.7,Nearly Sorted Array
+4300,20,2501.6,Random Array
+4300,20,2268.9,Reversed Array
+4300,20,2069.6,Nearly Sorted Array
+4300,30,2391.2,Random Array
+4300,30,2319.5,Reversed Array
+4300,30,2022,Nearly Sorted Array
+4300,50,2684.3,Random Array
+4300,50,2499.8,Reversed Array
+4300,50,1735.1,Nearly Sorted Array
+4400,5,4037,Random Array
+4400,5,3562.3,Reversed Array
+4400,5,3902.6,Nearly Sorted Array
+4400,10,3177.3,Random Array
+4400,10,2761.6,Reversed Array
+4400,10,2677.9,Nearly Sorted Array
+4400,15,3050.7,Random Array
+4400,15,2802,Reversed Array
+4400,15,2701.7,Nearly Sorted Array
+4400,20,2469.8,Random Array
+4400,20,2326.4,Reversed Array
+4400,20,2035.4,Nearly Sorted Array
+4400,30,2521.9,Random Array
+4400,30,2388.6,Reversed Array
+4400,30,2087,Nearly Sorted Array
+4400,50,2314.4,Random Array
+4400,50,2588.4,Reversed Array
+4400,50,1740.4,Nearly Sorted Array
+4500,5,4128.6,Random Array
+4500,5,3612.3,Reversed Array
+4500,5,3761.4,Nearly Sorted Array
+4500,10,3006.8,Random Array
+4500,10,2868.4,Reversed Array
+4500,10,2763.6,Nearly Sorted Array
+4500,15,3077.7,Random Array
+4500,15,2683.8,Reversed Array
+4500,15,2677.9,Nearly Sorted Array
+4500,20,2866.5,Random Array
+4500,20,2460.6,Reversed Array
+4500,20,2139.5,Nearly Sorted Array
+4500,30,2624.6,Random Array
+4500,30,2370.2,Reversed Array
+4500,30,2073.9,Nearly Sorted Array
+4500,50,2408.6,Random Array
+4500,50,2658.2,Reversed Array
+4500,50,1814.4,Nearly Sorted Array
+4600,5,4209.8,Random Array
+4600,5,3837.5,Reversed Array
+4600,5,4114.7,Nearly Sorted Array
+4600,10,3175,Random Array
+4600,10,2735.9,Reversed Array
+4600,10,2833.4,Nearly Sorted Array
+4600,15,3079.9,Random Array
+4600,15,2708.9,Reversed Array
+4600,15,2867.1,Nearly Sorted Array
+4600,20,2579.1,Random Array
+4600,20,2430.5,Reversed Array
+4600,20,2217.1,Nearly Sorted Array
+4600,30,2618.5,Random Array
+4600,30,2497.1,Reversed Array
+4600,30,2290.7,Nearly Sorted Array
+4600,50,2415.4,Random Array
+4600,50,2733.1,Reversed Array
+4600,50,1877.8,Nearly Sorted Array
+4700,5,4220.2,Random Array
+4700,5,3867.3,Reversed Array
+4700,5,3997,Nearly Sorted Array
+4700,10,3185,Random Array
+4700,10,2754.1,Reversed Array
+4700,10,2786.1,Nearly Sorted Array
+4700,15,3134,Random Array
+4700,15,2802.7,Reversed Array
+4700,15,3028.9,Nearly Sorted Array
+4700,20,2650.1,Random Array
+4700,20,2531.6,Reversed Array
+4700,20,2144,Nearly Sorted Array
+4700,30,2611.3,Random Array
+4700,30,2526.1,Reversed Array
+4700,30,2312.3,Nearly Sorted Array
+4700,50,3239.4,Random Array
+4700,50,3386.7,Reversed Array
+4700,50,1865.2,Nearly Sorted Array
+4800,5,4386.1,Random Array
+4800,5,4000.6,Reversed Array
+4800,5,3924.7,Nearly Sorted Array
+4800,10,3132.8,Random Array
+4800,10,2889.7,Reversed Array
+4800,10,2899.7,Nearly Sorted Array
+4800,15,3178.1,Random Array
+4800,15,2796.8,Reversed Array
+4800,15,2914.3,Nearly Sorted Array
+4800,20,2793.9,Random Array
+4800,20,2548.6,Reversed Array
+4800,20,2247.2,Nearly Sorted Array
+4800,30,2839.8,Random Array
+4800,30,2613.6,Reversed Array
+4800,30,2239,Nearly Sorted Array
+4800,50,2573.1,Random Array
+4800,50,2877.4,Reversed Array
+4800,50,1915.3,Nearly Sorted Array
+4900,5,4407,Random Array
+4900,5,3828.9,Reversed Array
+4900,5,3911.8,Nearly Sorted Array
+4900,10,5748,Random Array
+4900,10,3348,Reversed Array
+4900,10,2814.3,Nearly Sorted Array
+4900,15,3348.3,Random Array
+4900,15,2993.2,Reversed Array
+4900,15,2989.2,Nearly Sorted Array
+4900,20,3460.1,Random Array
+4900,20,2594.6,Reversed Array
+4900,20,2317.6,Nearly Sorted Array
+4900,30,2720.6,Random Array
+4900,30,2575.2,Reversed Array
+4900,30,2335.5,Nearly Sorted Array
+4900,50,2635.9,Random Array
+4900,50,3220.6,Reversed Array
+4900,50,1943.6,Nearly Sorted Array
+5000,5,4341.5,Random Array
+5000,5,4176.3,Reversed Array
+5000,5,3970,Nearly Sorted Array
+5000,10,3260,Random Array
+5000,10,3001.1,Reversed Array
+5000,10,2945.6,Nearly Sorted Array
+5000,15,3289.1,Random Array
+5000,15,2853.4,Reversed Array
+5000,15,3116.4,Nearly Sorted Array
+5000,20,2820.8,Random Array
+5000,20,2668.3,Reversed Array
+5000,20,2332.4,Nearly Sorted Array
+5000,30,2774.5,Random Array
+5000,30,2915.7,Reversed Array
+5000,30,2294.2,Nearly Sorted Array
+5000,50,2689.4,Random Array
+5000,50,3142.7,Reversed Array
+5000,50,2002.1,Nearly Sorted Array
+5100,5,4375.9,Random Array
+5100,5,4108.2,Reversed Array
+5100,5,4023.9,Nearly Sorted Array
+5100,10,3298.9,Random Array
+5100,10,3058.5,Reversed Array
+5100,10,3018.3,Nearly Sorted Array
+5100,15,3639.9,Random Array
+5100,15,2960.5,Reversed Array
+5100,15,2974.9,Nearly Sorted Array
+5100,20,2781.6,Random Array
+5100,20,2741.7,Reversed Array
+5100,20,2293.8,Nearly Sorted Array
+5100,30,2789.2,Random Array
+5100,30,2700.4,Reversed Array
+5100,30,2331.5,Nearly Sorted Array
+5100,50,2761.6,Random Array
+5100,50,3158.5,Reversed Array
+5100,50,1993.2,Nearly Sorted Array
+5200,5,4890.9,Random Array
+5200,5,4184.8,Reversed Array
+5200,5,4394.9,Nearly Sorted Array
+5200,10,3481.4,Random Array
+5200,10,3080.6,Reversed Array
+5200,10,3161.1,Nearly Sorted Array
+5200,15,3408.7,Random Array
+5200,15,3073,Reversed Array
+5200,15,2937,Nearly Sorted Array
+5200,20,3062.4,Random Array
+5200,20,2944.6,Reversed Array
+5200,20,2552.8,Nearly Sorted Array
+5200,30,2931.5,Random Array
+5200,30,2934.9,Reversed Array
+5200,30,2990.8,Nearly Sorted Array
+5200,50,2890.1,Random Array
+5200,50,3208.9,Reversed Array
+5200,50,2081.2,Nearly Sorted Array
+5300,5,5091.6,Random Array
+5300,5,4430.3,Reversed Array
+5300,5,4496.7,Nearly Sorted Array
+5300,10,3944,Random Array
+5300,10,3812.8,Reversed Array
+5300,10,3587.8,Nearly Sorted Array
+5300,15,3362.8,Random Array
+5300,15,3066.6,Reversed Array
+5300,15,2954.8,Nearly Sorted Array
+5300,20,3233.8,Random Array
+5300,20,3083.7,Reversed Array
+5300,20,2799,Nearly Sorted Array
+5300,30,2965.5,Random Array
+5300,30,2860.7,Reversed Array
+5300,30,2421.7,Nearly Sorted Array
+5300,50,2912.1,Random Array
+5300,50,3320,Reversed Array
+5300,50,2064.2,Nearly Sorted Array
+5400,5,5391.8,Random Array
+5400,5,4575.7,Reversed Array
+5400,5,5476.2,Nearly Sorted Array
+5400,10,4142.5,Random Array
+5400,10,3595.5,Reversed Array
+5400,10,3686.5,Nearly Sorted Array
+5400,15,3559.6,Random Array
+5400,15,3132.4,Reversed Array
+5400,15,3033.9,Nearly Sorted Array
+5400,20,3609.6,Random Array
+5400,20,3176,Reversed Array
+5400,20,3088.9,Nearly Sorted Array
+5400,30,2995.2,Random Array
+5400,30,2889.9,Reversed Array
+5400,30,2431.8,Nearly Sorted Array
+5400,50,2981.1,Random Array
+5400,50,3454.3,Reversed Array
+5400,50,2147,Nearly Sorted Array
+5500,5,5367.5,Random Array
+5500,5,5132.8,Reversed Array
+5500,5,5021.6,Nearly Sorted Array
+5500,10,4376.4,Random Array
+5500,10,3871.2,Reversed Array
+5500,10,4062.7,Nearly Sorted Array
+5500,15,3643.2,Random Array
+5500,15,3183.3,Reversed Array
+5500,15,3138.4,Nearly Sorted Array
+5500,20,3531.3,Random Array
+5500,20,3276.3,Reversed Array
+5500,20,3107.9,Nearly Sorted Array
+5500,30,3100.8,Random Array
+5500,30,2939.4,Reversed Array
+5500,30,2504.2,Nearly Sorted Array
+5500,50,3196.6,Random Array
+5500,50,3511.8,Reversed Array
+5500,50,2175.8,Nearly Sorted Array
+5600,5,8131.5,Random Array
+5600,5,7682.3,Reversed Array
+5600,5,7817.9,Nearly Sorted Array
+5600,10,4643.1,Random Array
+5600,10,3990.8,Reversed Array
+5600,10,4235.3,Nearly Sorted Array
+5600,15,3534.7,Random Array
+5600,15,3155.3,Reversed Array
+5600,15,3121.4,Nearly Sorted Array
+5600,20,3585.3,Random Array
+5600,20,3219.4,Reversed Array
+5600,20,3687.1,Nearly Sorted Array
+5600,30,3589.3,Random Array
+5600,30,3080.8,Reversed Array
+5600,30,2531.8,Nearly Sorted Array
+5600,50,3098.6,Random Array
+5600,50,3806.7,Reversed Array
+5600,50,2416.2,Nearly Sorted Array
+5700,5,6051.3,Random Array
+5700,5,5408,Reversed Array
+5700,5,5722.6,Nearly Sorted Array
+5700,10,4768.9,Random Array
+5700,10,4376.4,Reversed Array
+5700,10,4278.9,Nearly Sorted Array
+5700,15,3596.1,Random Array
+5700,15,3330,Reversed Array
+5700,15,3187.5,Nearly Sorted Array
+5700,20,3707.5,Random Array
+5700,20,3249.3,Reversed Array
+5700,20,3126.4,Nearly Sorted Array
+5700,30,3235.5,Random Array
+5700,30,3088.7,Reversed Array
+5700,30,2579.2,Nearly Sorted Array
+5700,50,3150.3,Random Array
+5700,50,3730.8,Reversed Array
+5700,50,2419.7,Nearly Sorted Array
+5800,5,6487.2,Random Array
+5800,5,5488.9,Reversed Array
+5800,5,6089.2,Nearly Sorted Array
+5800,10,4874.8,Random Array
+5800,10,4262.5,Reversed Array
+5800,10,4498,Nearly Sorted Array
+5800,15,3802.4,Random Array
+5800,15,3380.4,Reversed Array
+5800,15,3154.9,Nearly Sorted Array
+5800,20,3686.1,Random Array
+5800,20,3367.1,Reversed Array
+5800,20,3194.4,Nearly Sorted Array
+5800,30,3192.5,Random Array
+5800,30,3136.9,Reversed Array
+5800,30,2572.9,Nearly Sorted Array
+5800,50,3242.3,Random Array
+5800,50,3943.1,Reversed Array
+5800,50,2309.3,Nearly Sorted Array
+5900,5,6770.3,Random Array
+5900,5,5845,Reversed Array
+5900,5,6603.5,Nearly Sorted Array
+5900,10,4854,Random Array
+5900,10,4170.3,Reversed Array
+5900,10,4375.5,Nearly Sorted Array
+5900,15,3812.9,Random Array
+5900,15,3333.8,Reversed Array
+5900,15,3380.1,Nearly Sorted Array
+5900,20,3964.6,Random Array
+5900,20,3410.2,Reversed Array
+5900,20,3203.1,Nearly Sorted Array
+5900,30,3218.7,Random Array
+5900,30,3243.1,Reversed Array
+5900,30,2608.2,Nearly Sorted Array
+5900,50,3309.7,Random Array
+5900,50,3984,Reversed Array
+5900,50,2561.1,Nearly Sorted Array
+6000,5,6693.9,Random Array
+6000,5,6237.9,Reversed Array
+6000,5,6407.2,Nearly Sorted Array
+6000,10,4946.2,Random Array
+6000,10,4250.7,Reversed Array
+6000,10,4578.4,Nearly Sorted Array
+6000,15,3797.9,Random Array
+6000,15,3354.7,Reversed Array
+6000,15,3245.9,Nearly Sorted Array
+6000,20,3781.2,Random Array
+6000,20,3454.4,Reversed Array
+6000,20,3366,Nearly Sorted Array
+6000,30,3322.3,Random Array
+6000,30,3295.6,Reversed Array
+6000,30,2695.8,Nearly Sorted Array
+6000,50,3405.2,Random Array
+6000,50,4162.1,Reversed Array
+6000,50,2346.2,Nearly Sorted Array
+6100,5,6986,Random Array
+6100,5,6454.7,Reversed Array
+6100,5,6622.1,Nearly Sorted Array
+6100,10,4906.1,Random Array
+6100,10,4488,Reversed Array
+6100,10,4480.3,Nearly Sorted Array
+6100,15,3802.5,Random Array
+6100,15,3400.4,Reversed Array
+6100,15,3393.7,Nearly Sorted Array
+6100,20,3819.6,Random Array
+6100,20,3438.2,Reversed Array
+6100,20,3397.2,Nearly Sorted Array
+6100,30,3376.8,Random Array
+6100,30,3353,Reversed Array
+6100,30,2735.6,Nearly Sorted Array
+6100,50,3451.3,Random Array
+6100,50,4143,Reversed Array
+6100,50,2403.2,Nearly Sorted Array
+6200,5,7101.5,Random Array
+6200,5,6604.9,Reversed Array
+6200,5,6862.7,Nearly Sorted Array
+6200,10,4989.1,Random Array
+6200,10,4367.7,Reversed Array
+6200,10,4626.8,Nearly Sorted Array
+6200,15,4039.4,Random Array
+6200,15,4086.4,Reversed Array
+6200,15,3332,Nearly Sorted Array
+6200,20,3918.8,Random Array
+6200,20,3501.1,Reversed Array
+6200,20,3349.7,Nearly Sorted Array
+6200,30,3423,Random Array
+6200,30,3411.6,Reversed Array
+6200,30,2779.5,Nearly Sorted Array
+6200,50,3503.4,Random Array
+6200,50,4251,Reversed Array
+6200,50,2655.1,Nearly Sorted Array
+6300,5,7100,Random Array
+6300,5,6471.1,Reversed Array
+6300,5,6889.6,Nearly Sorted Array
+6300,10,5119.1,Random Array
+6300,10,4782.4,Reversed Array
+6300,10,4748.8,Nearly Sorted Array
+6300,15,4042.8,Random Array
+6300,15,3764.6,Reversed Array
+6300,15,3382.2,Nearly Sorted Array
+6300,20,3992.1,Random Array
+6300,20,3696,Reversed Array
+6300,20,3425.4,Nearly Sorted Array
+6300,30,3571.4,Random Array
+6300,30,3489.7,Reversed Array
+6300,30,2837.4,Nearly Sorted Array
+6300,50,3844,Random Array
+6300,50,4335,Reversed Array
+6300,50,2567.4,Nearly Sorted Array
+6400,5,7737.3,Random Array
+6400,5,6447.4,Reversed Array
+6400,5,6925.4,Nearly Sorted Array
+6400,10,5016.8,Random Array
+6400,10,4627.9,Reversed Array
+6400,10,4744.7,Nearly Sorted Array
+6400,15,3947.3,Random Array
+6400,15,3795.4,Reversed Array
+6400,15,3494.9,Nearly Sorted Array
+6400,20,4028,Random Array
+6400,20,3590.5,Reversed Array
+6400,20,3503.5,Nearly Sorted Array
+6400,30,3617.3,Random Array
+6400,30,3607,Reversed Array
+6400,30,2822.3,Nearly Sorted Array
+6400,50,3682.4,Random Array
+6400,50,4568.9,Reversed Array
+6400,50,2594.7,Nearly Sorted Array
+6500,5,7306.6,Random Array
+6500,5,6879.6,Reversed Array
+6500,5,7177.2,Nearly Sorted Array
+6500,10,5295.7,Random Array
+6500,10,4651.6,Reversed Array
+6500,10,4612.6,Nearly Sorted Array
+6500,15,4081.8,Random Array
+6500,15,3629,Reversed Array
+6500,15,3467.3,Nearly Sorted Array
+6500,20,4086.6,Random Array
+6500,20,3657.7,Reversed Array
+6500,20,3596.8,Nearly Sorted Array
+6500,30,3592.5,Random Array
+6500,30,3728,Reversed Array
+6500,30,2856.6,Nearly Sorted Array
+6500,50,3630.6,Random Array
+6500,50,3932.4,Reversed Array
+6500,50,2814.7,Nearly Sorted Array
+6600,5,7585.6,Random Array
+6600,5,6569.1,Reversed Array
+6600,5,6814.4,Nearly Sorted Array
+6600,10,5236.2,Random Array
+6600,10,4528.1,Reversed Array
+6600,10,4951.1,Nearly Sorted Array
+6600,15,4175,Random Array
+6600,15,3722.1,Reversed Array
+6600,15,3573.7,Nearly Sorted Array
+6600,20,4145.8,Random Array
+6600,20,3649.2,Reversed Array
+6600,20,3485.3,Nearly Sorted Array
+6600,30,3629.3,Random Array
+6600,30,3676.7,Reversed Array
+6600,30,2861.7,Nearly Sorted Array
+6600,50,3686.7,Random Array
+6600,50,3756.5,Reversed Array
+6600,50,3029.9,Nearly Sorted Array
+6700,5,7575.4,Random Array
+6700,5,6851.3,Reversed Array
+6700,5,6951.3,Nearly Sorted Array
+6700,10,5207.2,Random Array
+6700,10,5016.2,Reversed Array
+6700,10,4721.8,Nearly Sorted Array
+6700,15,4238.2,Random Array
+6700,15,3712.9,Reversed Array
+6700,15,3666.9,Nearly Sorted Array
+6700,20,4132.8,Random Array
+6700,20,3697.8,Reversed Array
+6700,20,3672.4,Nearly Sorted Array
+6700,30,3743.9,Random Array
+6700,30,3761.1,Reversed Array
+6700,30,2971.6,Nearly Sorted Array
+6700,50,3706,Random Array
+6700,50,3759.5,Reversed Array
+6700,50,2957.7,Nearly Sorted Array
+6800,5,7719.4,Random Array
+6800,5,6643.7,Reversed Array
+6800,5,7212.8,Nearly Sorted Array
+6800,10,5415.1,Random Array
+6800,10,4643.2,Reversed Array
+6800,10,4923.6,Nearly Sorted Array
+6800,15,4327.2,Random Array
+6800,15,3887.1,Reversed Array
+6800,15,3592.6,Nearly Sorted Array
+6800,20,4502.2,Random Array
+6800,20,4019.9,Reversed Array
+6800,20,3889.7,Nearly Sorted Array
+6800,30,4213.7,Random Array
+6800,30,4026.8,Reversed Array
+6800,30,3206.2,Nearly Sorted Array
+6800,50,3832.5,Random Array
+6800,50,3894.2,Reversed Array
+6800,50,2949.7,Nearly Sorted Array
+6900,5,7363.3,Random Array
+6900,5,6995.9,Reversed Array
+6900,5,8075.5,Nearly Sorted Array
+6900,10,5456.6,Random Array
+6900,10,4682,Reversed Array
+6900,10,4971.1,Nearly Sorted Array
+6900,15,4254,Random Array
+6900,15,4112.3,Reversed Array
+6900,15,3635.4,Nearly Sorted Array
+6900,20,4307,Random Array
+6900,20,3958.9,Reversed Array
+6900,20,3702.4,Nearly Sorted Array
+6900,30,3848.3,Random Array
+6900,30,4638.6,Reversed Array
+6900,30,3026.2,Nearly Sorted Array
+6900,50,3887.1,Random Array
+6900,50,3915.9,Reversed Array
+6900,50,2995.8,Nearly Sorted Array
+7000,5,7605.8,Random Array
+7000,5,7117,Reversed Array
+7000,5,7862.2,Nearly Sorted Array
+7000,10,6444.4,Random Array
+7000,10,4953.6,Reversed Array
+7000,10,5109.1,Nearly Sorted Array
+7000,15,4441.5,Random Array
+7000,15,3968.6,Reversed Array
+7000,15,3638.3,Nearly Sorted Array
+7000,20,4359.5,Random Array
+7000,20,4036.3,Reversed Array
+7000,20,4310.5,Nearly Sorted Array
+7000,30,3891.9,Random Array
+7000,30,4449.2,Reversed Array
+7000,30,3128.5,Nearly Sorted Array
+7000,50,3908.6,Random Array
+7000,50,3990,Reversed Array
+7000,50,3047.9,Nearly Sorted Array
+7100,5,7874.1,Random Array
+7100,5,7097.3,Reversed Array
+7100,5,7634.1,Nearly Sorted Array
+7100,10,5413.5,Random Array
+7100,10,4874.1,Reversed Array
+7100,10,4871.6,Nearly Sorted Array
+7100,15,4627.5,Random Array
+7100,15,4091.3,Reversed Array
+7100,15,3764.3,Nearly Sorted Array
+7100,20,4343,Random Array
+7100,20,4097.5,Reversed Array
+7100,20,3727.7,Nearly Sorted Array
+7100,30,3943.4,Random Array
+7100,30,4086.5,Reversed Array
+7100,30,3053.8,Nearly Sorted Array
+7100,50,3993.6,Random Array
+7100,50,4030.3,Reversed Array
+7100,50,3090.8,Nearly Sorted Array
+7200,5,7977.9,Random Array
+7200,5,7039.5,Reversed Array
+7200,5,7112.1,Nearly Sorted Array
+7200,10,5497.1,Random Array
+7200,10,4780.3,Reversed Array
+7200,10,5026.6,Nearly Sorted Array
+7200,15,4363.1,Random Array
+7200,15,4087.4,Reversed Array
+7200,15,3979.2,Nearly Sorted Array
+7200,20,5168.7,Random Array
+7200,20,4218.3,Reversed Array
+7200,20,3885.3,Nearly Sorted Array
+7200,30,4051.2,Random Array
+7200,30,4116.8,Reversed Array
+7200,30,3207.1,Nearly Sorted Array
+7200,50,4052.4,Random Array
+7200,50,4252,Reversed Array
+7200,50,3169.6,Nearly Sorted Array
+7300,5,7635.6,Random Array
+7300,5,6970,Reversed Array
+7300,5,7294.5,Nearly Sorted Array
+7300,10,5490.8,Random Array
+7300,10,4832.3,Reversed Array
+7300,10,5009.4,Nearly Sorted Array
+7300,15,4504.8,Random Array
+7300,15,4057.3,Reversed Array
+7300,15,3825.6,Nearly Sorted Array
+7300,20,4523.4,Random Array
+7300,20,4102.9,Reversed Array
+7300,20,3762.3,Nearly Sorted Array
+7300,30,4398.2,Random Array
+7300,30,4151.3,Reversed Array
+7300,30,3276.7,Nearly Sorted Array
+7300,50,4073.9,Random Array
+7300,50,4573,Reversed Array
+7300,50,3171.2,Nearly Sorted Array
+7400,5,7621.6,Random Array
+7400,5,6778.2,Reversed Array
+7400,5,7250.7,Nearly Sorted Array
+7400,10,5552.1,Random Array
+7400,10,4862.2,Reversed Array
+7400,10,4971,Nearly Sorted Array
+7400,15,4464.5,Random Array
+7400,15,4126.9,Reversed Array
+7400,15,3834.5,Nearly Sorted Array
+7400,20,4489.6,Random Array
+7400,20,4204.9,Reversed Array
+7400,20,4236.9,Nearly Sorted Array
+7400,30,4110.1,Random Array
+7400,30,4259.7,Reversed Array
+7400,30,3247.2,Nearly Sorted Array
+7400,50,4110,Random Array
+7400,50,4277.7,Reversed Array
+7400,50,3187.1,Nearly Sorted Array
+7500,5,8166,Random Array
+7500,5,6981.3,Reversed Array
+7500,5,7276.6,Nearly Sorted Array
+7500,10,5592.6,Random Array
+7500,10,4907.1,Reversed Array
+7500,10,5099.1,Nearly Sorted Array
+7500,15,4586.6,Random Array
+7500,15,4142.8,Reversed Array
+7500,15,4100.8,Nearly Sorted Array
+7500,20,4606.4,Random Array
+7500,20,4239.9,Reversed Array
+7500,20,3916.1,Nearly Sorted Array
+7500,30,4241.6,Random Array
+7500,30,4366.6,Reversed Array
+7500,30,3459.2,Nearly Sorted Array
+7500,50,4262.5,Random Array
+7500,50,4416,Reversed Array
+7500,50,3336.2,Nearly Sorted Array
+7600,5,8384.3,Random Array
+7600,5,7052.7,Reversed Array
+7600,5,7807.6,Nearly Sorted Array
+7600,10,5790.8,Random Array
+7600,10,5032.6,Reversed Array
+7600,10,5365.7,Nearly Sorted Array
+7600,15,4736,Random Array
+7600,15,4232.7,Reversed Array
+7600,15,4087.5,Nearly Sorted Array
+7600,20,4652.5,Random Array
+7600,20,4274.6,Reversed Array
+7600,20,3949.4,Nearly Sorted Array
+7600,30,4474.4,Random Array
+7600,30,4505.5,Reversed Array
+7600,30,3274.1,Nearly Sorted Array
+7600,50,4326.2,Random Array
+7600,50,4435.7,Reversed Array
+7600,50,3499.3,Nearly Sorted Array
+7700,5,8066.7,Random Array
+7700,5,7304.9,Reversed Array
+7700,5,7504.9,Nearly Sorted Array
+7700,10,5873.1,Random Array
+7700,10,5045.2,Reversed Array
+7700,10,5161.8,Nearly Sorted Array
+7700,15,4718.2,Random Array
+7700,15,4374.7,Reversed Array
+7700,15,4162.2,Nearly Sorted Array
+7700,20,4730.4,Random Array
+7700,20,4319.5,Reversed Array
+7700,20,3914.5,Nearly Sorted Array
+7700,30,4403.1,Random Array
+7700,30,4517,Reversed Array
+7700,30,3466.8,Nearly Sorted Array
+7700,50,4385.4,Random Array
+7700,50,4595.3,Reversed Array
+7700,50,3367.1,Nearly Sorted Array
+7800,5,8065.8,Random Array
+7800,5,7365,Reversed Array
+7800,5,7524.8,Nearly Sorted Array
+7800,10,6286.5,Random Array
+7800,10,5191.1,Reversed Array
+7800,10,5415.7,Nearly Sorted Array
+7800,15,5073.7,Random Array
+7800,15,4603.9,Reversed Array
+7800,15,4275.9,Nearly Sorted Array
+7800,20,4773.1,Random Array
+7800,20,4350.1,Reversed Array
+7800,20,4097.6,Nearly Sorted Array
+7800,30,4555.5,Random Array
+7800,30,4449.8,Reversed Array
+7800,30,3749.7,Nearly Sorted Array
+7800,50,4483.2,Random Array
+7800,50,4669.9,Reversed Array
+7800,50,3442.5,Nearly Sorted Array
+7900,5,8171,Random Array
+7900,5,7133.4,Reversed Array
+7900,5,7758.6,Nearly Sorted Array
+7900,10,6232.3,Random Array
+7900,10,5431.1,Reversed Array
+7900,10,5245.6,Nearly Sorted Array
+7900,15,5260.3,Random Array
+7900,15,4800.8,Reversed Array
+7900,15,4617.2,Nearly Sorted Array
+7900,20,4948.9,Random Array
+7900,20,4336.1,Reversed Array
+7900,20,4039.3,Nearly Sorted Array
+7900,30,4751.4,Random Array
+7900,30,4469.3,Reversed Array
+7900,30,3987.5,Nearly Sorted Array
+7900,50,4420.2,Random Array
+7900,50,4645.9,Reversed Array
+7900,50,3516.3,Nearly Sorted Array
+8000,5,8218.2,Random Array
+8000,5,7562.3,Reversed Array
+8000,5,7600.8,Nearly Sorted Array
+8000,10,6573.5,Random Array
+8000,10,5514.4,Reversed Array
+8000,10,5275.6,Nearly Sorted Array
+8000,15,5657,Random Array
+8000,15,5021.9,Reversed Array
+8000,15,4949.3,Nearly Sorted Array
+8000,20,4841.2,Random Array
+8000,20,4716.1,Reversed Array
+8000,20,4115.9,Nearly Sorted Array
+8000,30,4896.2,Random Array
+8000,30,4601.6,Reversed Array
+8000,30,4091.5,Nearly Sorted Array
+8000,50,4490.9,Random Array
+8000,50,4796.6,Reversed Array
+8000,50,3597.7,Nearly Sorted Array
+8100,5,8384.1,Random Array
+8100,5,7461.6,Reversed Array
+8100,5,7779.8,Nearly Sorted Array
+8100,10,6001.6,Random Array
+8100,10,5464.3,Reversed Array
+8100,10,5641.6,Nearly Sorted Array
+8100,15,5722.3,Random Array
+8100,15,5070.8,Reversed Array
+8100,15,5199.7,Nearly Sorted Array
+8100,20,4898.7,Random Array
+8100,20,4578.9,Reversed Array
+8100,20,4157.8,Nearly Sorted Array
+8100,30,4982.3,Random Array
+8100,30,4550.8,Reversed Array
+8100,30,4724.3,Nearly Sorted Array
+8100,50,4630.7,Random Array
+8100,50,4849.5,Reversed Array
+8100,50,3525.6,Nearly Sorted Array
+8200,5,8086.3,Random Array
+8200,5,7409.6,Reversed Array
+8200,5,8267.4,Nearly Sorted Array
+8200,10,6197.9,Random Array
+8200,10,5227.3,Reversed Array
+8200,10,5603.6,Nearly Sorted Array
+8200,15,6134.6,Random Array
+8200,15,5399.2,Reversed Array
+8200,15,5523.2,Nearly Sorted Array
+8200,20,5027.6,Random Array
+8200,20,4671.2,Reversed Array
+8200,20,4187.7,Nearly Sorted Array
+8200,30,5021.4,Random Array
+8200,30,4771.7,Reversed Array
+8200,30,4132.9,Nearly Sorted Array
+8200,50,4621,Random Array
+8200,50,4940.1,Reversed Array
+8200,50,3510,Nearly Sorted Array
+8300,5,8686.3,Random Array
+8300,5,7466.7,Reversed Array
+8300,5,8189.4,Nearly Sorted Array
+8300,10,6388.7,Random Array
+8300,10,5269.3,Reversed Array
+8300,10,5443.7,Nearly Sorted Array
+8300,15,6280,Random Array
+8300,15,5358.1,Reversed Array
+8300,15,5642.4,Nearly Sorted Array
+8300,20,5151.2,Random Array
+8300,20,4683,Reversed Array
+8300,20,4376.2,Nearly Sorted Array
+8300,30,5100.9,Random Array
+8300,30,4805.6,Reversed Array
+8300,30,4297.5,Nearly Sorted Array
+8300,50,4699.7,Random Array
+8300,50,5280,Reversed Array
+8300,50,3600.9,Nearly Sorted Array
+8400,5,8325.4,Random Array
+8400,5,7632.4,Reversed Array
+8400,5,8097.6,Nearly Sorted Array
+8400,10,6146,Random Array
+8400,10,5444.9,Reversed Array
+8400,10,5468.8,Nearly Sorted Array
+8400,15,6382.5,Random Array
+8400,15,5395.2,Reversed Array
+8400,15,5529.8,Nearly Sorted Array
+8400,20,5145.7,Random Array
+8400,20,5080.3,Reversed Array
+8400,20,4378.2,Nearly Sorted Array
+8400,30,5018.2,Random Array
+8400,30,4788,Reversed Array
+8400,30,4456,Nearly Sorted Array
+8400,50,4933.2,Random Array
+8400,50,5035.3,Reversed Array
+8400,50,3719,Nearly Sorted Array
+8500,5,8730.1,Random Array
+8500,5,7731,Reversed Array
+8500,5,7616.6,Nearly Sorted Array
+8500,10,6324.6,Random Array
+8500,10,5592.4,Reversed Array
+8500,10,5599,Nearly Sorted Array
+8500,15,6225.5,Random Array
+8500,15,5570,Reversed Array
+8500,15,6085.4,Nearly Sorted Array
+8500,20,5218,Random Array
+8500,20,4674.5,Reversed Array
+8500,20,4594.6,Nearly Sorted Array
+8500,30,5542.4,Random Array
+8500,30,4883.4,Reversed Array
+8500,30,4428,Nearly Sorted Array
+8500,50,4832,Random Array
+8500,50,5326.6,Reversed Array
+8500,50,3742.8,Nearly Sorted Array
+8600,5,8632,Random Array
+8600,5,7826.2,Reversed Array
+8600,5,8037.1,Nearly Sorted Array
+8600,10,6337.6,Random Array
+8600,10,5506.4,Reversed Array
+8600,10,5704.2,Nearly Sorted Array
+8600,15,6774.8,Random Array
+8600,15,5702.2,Reversed Array
+8600,15,5572.9,Nearly Sorted Array
+8600,20,5436.7,Random Array
+8600,20,5274.6,Reversed Array
+8600,20,4744.4,Nearly Sorted Array
+8600,30,5126.6,Random Array
+8600,30,4919.1,Reversed Array
+8600,30,4683.5,Nearly Sorted Array
+8600,50,4928.2,Random Array
+8600,50,5248.2,Reversed Array
+8600,50,3754,Nearly Sorted Array
+8700,5,8489.4,Random Array
+8700,5,7635.9,Reversed Array
+8700,5,8174.9,Nearly Sorted Array
+8700,10,6453,Random Array
+8700,10,5995.2,Reversed Array
+8700,10,5858.2,Nearly Sorted Array
+8700,15,6517.4,Random Array
+8700,15,5632.3,Reversed Array
+8700,15,5639.1,Nearly Sorted Array
+8700,20,5248.9,Random Array
+8700,20,4891.6,Reversed Array
+8700,20,4407.7,Nearly Sorted Array
+8700,30,5330.6,Random Array
+8700,30,5009.3,Reversed Array
+8700,30,4609.8,Nearly Sorted Array
+8700,50,5158,Random Array
+8700,50,5322,Reversed Array
+8700,50,3745.4,Nearly Sorted Array
+8800,5,8611.3,Random Array
+8800,5,7469.7,Reversed Array
+8800,5,7795.3,Nearly Sorted Array
+8800,10,6362.3,Random Array
+8800,10,5636.1,Reversed Array
+8800,10,5925.2,Nearly Sorted Array
+8800,15,6507.9,Random Array
+8800,15,6006.1,Reversed Array
+8800,15,5695.7,Nearly Sorted Array
+8800,20,5349.4,Random Array
+8800,20,5200.1,Reversed Array
+8800,20,4713.5,Nearly Sorted Array
+8800,30,5489,Random Array
+8800,30,5002.4,Reversed Array
+8800,30,4657.1,Nearly Sorted Array
+8800,50,5109.8,Random Array
+8800,50,5407.9,Reversed Array
+8800,50,3834.8,Nearly Sorted Array
+8900,5,8837.5,Random Array
+8900,5,8393.7,Reversed Array
+8900,5,8065.1,Nearly Sorted Array
+8900,10,6446,Random Array
+8900,10,5530.2,Reversed Array
+8900,10,5934.5,Nearly Sorted Array
+8900,15,6367.2,Random Array
+8900,15,5538.1,Reversed Array
+8900,15,5701.1,Nearly Sorted Array
+8900,20,5393.7,Random Array
+8900,20,4994.6,Reversed Array
+8900,20,4418,Nearly Sorted Array
+8900,30,5486,Random Array
+8900,30,4976.2,Reversed Array
+8900,30,4418.4,Nearly Sorted Array
+8900,50,5050.1,Random Array
+8900,50,5523.1,Reversed Array
+8900,50,3789.8,Nearly Sorted Array
+9000,5,8473.5,Random Array
+9000,5,7669,Reversed Array
+9000,5,8361.4,Nearly Sorted Array
+9000,10,6647.7,Random Array
+9000,10,5781,Reversed Array
+9000,10,5746.5,Nearly Sorted Array
+9000,15,6508.8,Random Array
+9000,15,5853.7,Reversed Array
+9000,15,5985,Nearly Sorted Array
+9000,20,5389.6,Random Array
+9000,20,4985.3,Reversed Array
+9000,20,4536.5,Nearly Sorted Array
+9000,30,5545.3,Random Array
+9000,30,5119.7,Reversed Array
+9000,30,4425,Nearly Sorted Array
+9000,50,5639.3,Random Array
+9000,50,5515.8,Reversed Array
+9000,50,3911.4,Nearly Sorted Array
+9100,5,9146,Random Array
+9100,5,7552.6,Reversed Array
+9100,5,8177.5,Nearly Sorted Array
+9100,10,6763.9,Random Array
+9100,10,5760.1,Reversed Array
+9100,10,5904.8,Nearly Sorted Array
+9100,15,6747.2,Random Array
+9100,15,5726,Reversed Array
+9100,15,6144,Nearly Sorted Array
+9100,20,5435.2,Random Array
+9100,20,5014.1,Reversed Array
+9100,20,4517.9,Nearly Sorted Array
+9100,30,5475.1,Random Array
+9100,30,5094.3,Reversed Array
+9100,30,4682.3,Nearly Sorted Array
+9100,50,5203,Random Array
+9100,50,5766.6,Reversed Array
+9100,50,4042.9,Nearly Sorted Array
+9200,5,8807.1,Random Array
+9200,5,7998.8,Reversed Array
+9200,5,8162.7,Nearly Sorted Array
+9200,10,6588.4,Random Array
+9200,10,6004.9,Reversed Array
+9200,10,5880.3,Nearly Sorted Array
+9200,15,6493.5,Random Array
+9200,15,5882.2,Reversed Array
+9200,15,5982.8,Nearly Sorted Array
+9200,20,5428.9,Random Array
+9200,20,5043.3,Reversed Array
+9200,20,4635.4,Nearly Sorted Array
+9200,30,5419.2,Random Array
+9200,30,5190.1,Reversed Array
+9200,30,4618.9,Nearly Sorted Array
+9200,50,5292.4,Random Array
+9200,50,5752.8,Reversed Array
+9200,50,4022.2,Nearly Sorted Array
+9300,5,8823.6,Random Array
+9300,5,8123.2,Reversed Array
+9300,5,8040.5,Nearly Sorted Array
+9300,10,6812.7,Random Array
+9300,10,6024,Reversed Array
+9300,10,6168.1,Nearly Sorted Array
+9300,15,6748.2,Random Array
+9300,15,5945.2,Reversed Array
+9300,15,6055.5,Nearly Sorted Array
+9300,20,5808.6,Random Array
+9300,20,5343.6,Reversed Array
+9300,20,4737,Nearly Sorted Array
+9300,30,5782.3,Random Array
+9300,30,5246.5,Reversed Array
+9300,30,4677.2,Nearly Sorted Array
+9300,50,5672,Random Array
+9300,50,5853.9,Reversed Array
+9300,50,4086.1,Nearly Sorted Array
+9400,5,9430.2,Random Array
+9400,5,7710.7,Reversed Array
+9400,5,8362.1,Nearly Sorted Array
+9400,10,6773.6,Random Array
+9400,10,5984.5,Reversed Array
+9400,10,6014,Nearly Sorted Array
+9400,15,6859.1,Random Array
+9400,15,6026.7,Reversed Array
+9400,15,5997.5,Nearly Sorted Array
+9400,20,6257.9,Random Array
+9400,20,5336.7,Reversed Array
+9400,20,4702.6,Nearly Sorted Array
+9400,30,5732.6,Random Array
+9400,30,5431.8,Reversed Array
+9400,30,4666.3,Nearly Sorted Array
+9400,50,5553.3,Random Array
+9400,50,5905.5,Reversed Array
+9400,50,4146.6,Nearly Sorted Array
+9500,5,9062.2,Random Array
+9500,5,8008.3,Reversed Array
+9500,5,8336.6,Nearly Sorted Array
+9500,10,6855.8,Random Array
+9500,10,6043.2,Reversed Array
+9500,10,6066.9,Nearly Sorted Array
+9500,15,6904.8,Random Array
+9500,15,5969.7,Reversed Array
+9500,15,6087.7,Nearly Sorted Array
+9500,20,5871.8,Random Array
+9500,20,5514.3,Reversed Array
+9500,20,4929.3,Nearly Sorted Array
+9500,30,5682.2,Random Array
+9500,30,5374,Reversed Array
+9500,30,4702.9,Nearly Sorted Array
+9500,50,5500,Random Array
+9500,50,5998.1,Reversed Array
+9500,50,4223.7,Nearly Sorted Array
+9600,5,9264.7,Random Array
+9600,5,8268.5,Reversed Array
+9600,5,8584.4,Nearly Sorted Array
+9600,10,6929.5,Random Array
+9600,10,6005.4,Reversed Array
+9600,10,6157.4,Nearly Sorted Array
+9600,15,6898,Random Array
+9600,15,6218.1,Reversed Array
+9600,15,6297.5,Nearly Sorted Array
+9600,20,5819.6,Random Array
+9600,20,5326.2,Reversed Array
+9600,20,4777.5,Nearly Sorted Array
+9600,30,5781.5,Random Array
+9600,30,5379.7,Reversed Array
+9600,30,4850.5,Nearly Sorted Array
+9600,50,5989.1,Random Array
+9600,50,6228.6,Reversed Array
+9600,50,4206.5,Nearly Sorted Array
+9700,5,9343.2,Random Array
+9700,5,8042.2,Reversed Array
+9700,5,8478,Nearly Sorted Array
+9700,10,6986.9,Random Array
+9700,10,6218.9,Reversed Array
+9700,10,6104.1,Nearly Sorted Array
+9700,15,7099.7,Random Array
+9700,15,6079.3,Reversed Array
+9700,15,6064.3,Nearly Sorted Array
+9700,20,5855.4,Random Array
+9700,20,5475.4,Reversed Array
+9700,20,4859.5,Nearly Sorted Array
+9700,30,5778.7,Random Array
+9700,30,5408.3,Reversed Array
+9700,30,4792,Nearly Sorted Array
+9700,50,6304.2,Random Array
+9700,50,6213.5,Reversed Array
+9700,50,4346.7,Nearly Sorted Array
+9800,5,9278.2,Random Array
+9800,5,8330.9,Reversed Array
+9800,5,8529.1,Nearly Sorted Array
+9800,10,6992,Random Array
+9800,10,6227.3,Reversed Array
+9800,10,6272.1,Nearly Sorted Array
+9800,15,6880.2,Random Array
+9800,15,6362.3,Reversed Array
+9800,15,6256.4,Nearly Sorted Array
+9800,20,6058.3,Random Array
+9800,20,5530.5,Reversed Array
+9800,20,7001.7,Nearly Sorted Array
+9800,30,6496.2,Random Array
+9800,30,5667.7,Reversed Array
+9800,30,4938.2,Nearly Sorted Array
+9800,50,5778.9,Random Array
+9800,50,6552.2,Reversed Array
+9800,50,4292.4,Nearly Sorted Array
+9900,5,9320.9,Random Array
+9900,5,8034.9,Reversed Array
+9900,5,8415.7,Nearly Sorted Array
+9900,10,7019.2,Random Array
+9900,10,6174.7,Reversed Array
+9900,10,6069.8,Nearly Sorted Array
+9900,15,6998.2,Random Array
+9900,15,6321.2,Reversed Array
+9900,15,6226.5,Nearly Sorted Array
+9900,20,5919.5,Random Array
+9900,20,5557.3,Reversed Array
+9900,20,4875.4,Nearly Sorted Array
+9900,30,5893,Random Array
+9900,30,5737.5,Reversed Array
+9900,30,4990.7,Nearly Sorted Array
+9900,50,5702.8,Random Array
+9900,50,6307.2,Reversed Array
+9900,50,4323.2,Nearly Sorted Array
+10000,5,9048.8,Random Array
+10000,5,8129.3,Reversed Array
+10000,5,8649.7,Nearly Sorted Array
+10000,10,6992.9,Random Array
+10000,10,6182.4,Reversed Array
+10000,10,6162.1,Nearly Sorted Array
+10000,15,6908.6,Random Array
+10000,15,6189.1,Reversed Array
+10000,15,6119.3,Nearly Sorted Array
+10000,20,5983.9,Random Array
+10000,20,5551.9,Reversed Array
+10000,20,4940.1,Nearly Sorted Array
+10000,30,5910.4,Random Array
+10000,30,5653.8,Reversed Array
+10000,30,5000.5,Nearly Sorted Array
+10000,50,5881.9,Random Array
+10000,50,6426,Reversed Array
+10000,50,4314.6,Nearly Sorted Array
